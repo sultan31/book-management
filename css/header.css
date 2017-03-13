@@ -1,0 +1,13 @@
+.header{background-color:yellow;}
+
+ul{
+	float:right;
+	padding:18px;
+  }
+ li{
+	 list-style-type:none;
+	 display:inline;
+	 padding:10px;
+  }
+  #searchForm{padding:10px;}
+  
